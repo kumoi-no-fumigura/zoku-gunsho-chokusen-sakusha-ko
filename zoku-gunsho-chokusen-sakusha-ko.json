@@ -203,6 +203,10 @@
   }
  ],
  "poems": [],
+ "translation": {
+  "count": 8,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-chokusen-sakusha-ko",
   "work": "勅撰作者考",
@@ -215,7 +219,7 @@
   "blocks": 8,
   "chars": 1947,
   "poems": 0,
-  "yaku": 0,
+  "yaku": 8,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T05:05:47+09:00"
